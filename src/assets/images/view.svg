@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="42" viewBox="0 0 39 42">
+  <g id="Group_533" data-name="Group 533" transform="translate(-1465 -870)">
+    <rect id="Rectangle_1540" data-name="Rectangle 1540" width="39" height="42" rx="5" transform="translate(1465 870)" fill="#e9edf5"/>
+    <g id="_001-speedometer" data-name="001-speedometer" transform="translate(1470.999 881)">
+      <path id="Path_619" data-name="Path 619" d="M93.9,0a13.087,13.087,0,0,0-8,3.312l3.3,3.3a6.961,6.961,0,0,1,4.694.018Zm0,0" transform="translate(-81.473)" fill="#1c4798"/>
+      <path id="Path_620" data-name="Path 620" d="M272.456,8.757l6.247-5.7A13.082,13.082,0,0,0,271,0V7.427A7.017,7.017,0,0,1,272.456,8.757Zm0,0" transform="translate(-257.027)" fill="#1c4798"/>
+      <path id="Path_621" data-name="Path 621" d="M0,94.227V95H3.094v-.773a6.961,6.961,0,0,1,3.174-5.838L3.336,85.457A13.1,13.1,0,0,0,0,94.227Zm0,0" transform="translate(0 -81.051)" fill="#1c4798"/>
+      <path id="Path_622" data-name="Path 622" d="M432.453,195.821h4.1v-.773a13.285,13.285,0,0,0-.411-3.289Zm0,0" transform="translate(-410.156 -181.871)" fill="#1c4798"/>
+      <path id="Path_623" data-name="Path 623" d="M199.116,271.059a3.094,3.094,0,1,0,2.188.906A3.074,3.074,0,0,0,199.116,271.059Zm0,0" transform="translate(-185.916 -257.083)" fill="#1c4798"/>
+      <path id="Path_624" data-name="Path 624" d="M274.616,74.555l-9.436,8.609a4.635,4.635,0,0,1,4.139,4.135l8.587-9.455V74.555Zm0,0" transform="translate(-251.507 -70.711)" fill="#1c4798"/>
+    </g>
+  </g>
+</svg>
